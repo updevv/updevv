@@ -46,10 +46,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Updevv&show_icons=true&locale=en&theme=react" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Updevv&show_icons=true&locale=en&theme=discord_old_blurple" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs?username=updevv&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img width="375em" src="https://github-readme-stats.vercel.app/api/top-langs?username=updevv&layout=compact&langs_count=8&card_width=320&theme=discord_old_blurple" />
 </td>
 </tr>
 </table>
