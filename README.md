@@ -22,6 +22,9 @@
 
 <span><b>💞️ We're working for:</b></span>
   - UpDev <i>(FiveM Store)<i>
+  - <del>NewHeaven <i>(Fivem Server)</i><del>
+  - <del>RogLife <i>(Fivem Server)</i><del>
+
 
 
 <h3 align="left" style="text-decoration: underline;">What we Use for Work? <i>(language & software for work)</i></h3>
